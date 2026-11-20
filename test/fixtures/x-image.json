@@ -1,0 +1,68 @@
+{
+  "for_user_id": "4000000001",
+  "direct_message_events": [
+    {
+      "type": "message_create",
+      "id": "1900000000000000003",
+      "created_timestamp": "1763600020123",
+      "message_create": {
+        "target": {
+          "recipient_id": "4000000001"
+        },
+        "sender_id": "4000000002",
+        "source_app_id": "13090192",
+        "message_data": {
+          "text": "receipt https://t.co/AbCdEf",
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+          },
+          "attachment": {
+            "type": "media",
+            "media": {
+              "id": 1900000000000010000,
+              "id_str": "1900000000000009999",
+              "indices": [
+                8,
+                28
+              ],
+              "media_url": "http://ton.twitter.com/1.1/ton/data/dm/1900000000000000003/1900000000000009999/abc.jpg",
+              "media_url_https": "https://ton.twitter.com/1.1/ton/data/dm/1900000000000000003/1900000000000009999/abc.jpg",
+              "url": "https://t.co/AbCdEf",
+              "display_url": "pic.twitter.com/AbCdEf",
+              "expanded_url": "https://twitter.com/messages/media/1900000000000000003",
+              "type": "photo",
+              "sizes": {
+                "large": {
+                  "w": 1024,
+                  "h": 768,
+                  "resize": "fit"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "users": {
+    "4000000001": {
+      "id": "4000000001",
+      "created_timestamp": "1288834974657",
+      "name": "Shop Support",
+      "screen_name": "shop_support",
+      "protected": false,
+      "verified": false
+    },
+    "4000000002": {
+      "id": "4000000002",
+      "created_timestamp": "1288834974000",
+      "name": "Jo Customer",
+      "screen_name": "jo_customer",
+      "protected": false,
+      "verified": false
+    }
+  }
+}

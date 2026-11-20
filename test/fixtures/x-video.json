@@ -1,0 +1,64 @@
+{
+  "for_user_id": "4000000001",
+  "direct_message_events": [
+    {
+      "type": "message_create",
+      "id": "1900000000000000004",
+      "created_timestamp": "1763600030123",
+      "message_create": {
+        "target": {
+          "recipient_id": "4000000001"
+        },
+        "sender_id": "4000000002",
+        "source_app_id": "13090192",
+        "message_data": {
+          "text": "",
+          "attachment": {
+            "type": "media",
+            "media": {
+              "id_str": "1900000000000008888",
+              "media_url_https": "https://ton.twitter.com/poster.jpg",
+              "type": "video",
+              "video_info": {
+                "variants": [
+                  {
+                    "bitrate": 256000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.example.test/low.mp4"
+                  },
+                  {
+                    "content_type": "application/x-mpegURL",
+                    "url": "https://video.twimg.example.test/pl.m3u8"
+                  },
+                  {
+                    "bitrate": 832000,
+                    "content_type": "video/mp4",
+                    "url": "https://video.twimg.example.test/high.mp4"
+                  }
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "users": {
+    "4000000001": {
+      "id": "4000000001",
+      "created_timestamp": "1288834974657",
+      "name": "Shop Support",
+      "screen_name": "shop_support",
+      "protected": false,
+      "verified": false
+    },
+    "4000000002": {
+      "id": "4000000002",
+      "created_timestamp": "1288834974000",
+      "name": "Jo Customer",
+      "screen_name": "jo_customer",
+      "protected": false,
+      "verified": false
+    }
+  }
+}

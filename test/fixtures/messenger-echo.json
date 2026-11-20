@@ -1,0 +1,26 @@
+{
+  "object": "page",
+  "entry": [
+    {
+      "id": "109000000000001",
+      "time": 1763600000000,
+      "messaging": [
+        {
+          "sender": {
+            "id": "109000000000001"
+          },
+          "recipient": {
+            "id": "5000000000000001"
+          },
+          "timestamp": 1763600040123,
+          "message": {
+            "is_echo": true,
+            "app_id": 123456789,
+            "mid": "m_echo_1",
+            "text": "We ship worldwide"
+          }
+        }
+      ]
+    }
+  ]
+}

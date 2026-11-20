@@ -1,0 +1,31 @@
+{
+  "for_user_id": "4000000001",
+  "direct_message_mark_read_events": [
+    {
+      "created_timestamp": "1763600050123",
+      "sender_id": "4000000002",
+      "target": {
+        "recipient_id": "4000000001"
+      },
+      "last_read_event_id": "1900000000000000002"
+    }
+  ],
+  "users": {
+    "4000000001": {
+      "id": "4000000001",
+      "created_timestamp": "1288834974657",
+      "name": "Shop Support",
+      "screen_name": "shop_support",
+      "protected": false,
+      "verified": false
+    },
+    "4000000002": {
+      "id": "4000000002",
+      "created_timestamp": "1288834974000",
+      "name": "Jo Customer",
+      "screen_name": "jo_customer",
+      "protected": false,
+      "verified": false
+    }
+  }
+}

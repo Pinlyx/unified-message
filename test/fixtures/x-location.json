@@ -1,0 +1,53 @@
+{
+  "for_user_id": "4000000001",
+  "direct_message_events": [
+    {
+      "type": "message_create",
+      "id": "1900000000000000005",
+      "created_timestamp": "1763600040123",
+      "message_create": {
+        "target": {
+          "recipient_id": "4000000001"
+        },
+        "sender_id": "4000000002",
+        "source_app_id": "13090192",
+        "message_data": {
+          "text": "",
+          "attachment": {
+            "type": "location",
+            "location": {
+              "type": "shared_coordinate",
+              "shared_coordinate": {
+                "coordinates": {
+                  "type": "Point",
+                  "coordinates": [
+                    -122.4194,
+                    37.7749
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  ],
+  "users": {
+    "4000000001": {
+      "id": "4000000001",
+      "created_timestamp": "1288834974657",
+      "name": "Shop Support",
+      "screen_name": "shop_support",
+      "protected": false,
+      "verified": false
+    },
+    "4000000002": {
+      "id": "4000000002",
+      "created_timestamp": "1288834974000",
+      "name": "Jo Customer",
+      "screen_name": "jo_customer",
+      "protected": false,
+      "verified": false
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "update_id": 900000005,
+  "message": {
+    "message_id": 46,
+    "from": {
+      "id": 100200300,
+      "is_bot": false,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 100200300,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "type": "private"
+    },
+    "date": 1763600240,
+    "document": {
+      "file_id": "BQACAgIAAxkBAAIC_doc",
+      "file_unique_id": "AgAD_d",
+      "file_name": "invoice.pdf",
+      "mime_type": "application/pdf",
+      "file_size": 52311
+    }
+  }
+}

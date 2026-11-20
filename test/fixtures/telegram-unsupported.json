@@ -1,0 +1,21 @@
+{
+  "update_id": 900000010,
+  "my_chat_member": {
+    "chat": {
+      "id": 100200300,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "type": "private"
+    },
+    "from": {
+      "id": 100200300,
+      "is_bot": false,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "language_code": "en"
+    },
+    "date": 1763600600
+  }
+}

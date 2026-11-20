@@ -1,0 +1,24 @@
+{
+  "object": "page",
+  "entry": [
+    {
+      "id": "109000000000001",
+      "time": 1763600000000,
+      "messaging": [
+        {
+          "sender": {
+            "id": "5000000000000001"
+          },
+          "recipient": {
+            "id": "109000000000001"
+          },
+          "timestamp": 1763600000123,
+          "message": {
+            "mid": "m_text_1",
+            "text": "Hi, do you ship to Berlin?"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "update_id": 900000008,
+  "message_reaction": {
+    "chat": {
+      "id": 100200300,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "type": "private"
+    },
+    "message_id": 44,
+    "user": {
+      "id": 100200300,
+      "is_bot": false,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "language_code": "en"
+    },
+    "date": 1763600400,
+    "old_reaction": [],
+    "new_reaction": [
+      {
+        "type": "emoji",
+        "emoji": "👍"
+      }
+    ]
+  }
+}

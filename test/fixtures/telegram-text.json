@@ -1,0 +1,23 @@
+{
+  "update_id": 900000001,
+  "message": {
+    "message_id": 41,
+    "from": {
+      "id": 100200300,
+      "is_bot": false,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 100200300,
+      "first_name": "Ada",
+      "last_name": "Lovelace",
+      "username": "ada_l",
+      "type": "private"
+    },
+    "date": 1763600000,
+    "text": "Hello bot"
+  }
+}
